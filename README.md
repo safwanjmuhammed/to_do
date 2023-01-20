@@ -1,6 +1,6 @@
 # to_do
 
-A new Flutter project.
+A simple flutter app used to maintain our day to day task built with Flutter & Hive database.
 
 ## Getting Started
 
