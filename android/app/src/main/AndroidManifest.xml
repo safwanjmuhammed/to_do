@@ -3,6 +3,7 @@
    <application
         android:label="to_do"
         android:name="${applicationName}"
+        android:roundIcon="@mip/round_launcher"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
